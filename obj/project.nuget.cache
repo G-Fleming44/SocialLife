@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kFL4u7KS7bg=",
+  "dgSpecHash": "iiKCZsFfDK4=",
   "success": true,
-  "projectFilePath": "/Users/eev/SocialMedia/SocialLife/SocialLife.csproj",
+  "projectFilePath": "/Users/eev/SocialLife/SocialLife.csproj",
   "expectedPackageFiles": [
     "/Users/eev/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0/microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
   ],

@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eev/SocialMedia/SocialLife/SocialLife.csproj",
+      "projectUniqueName": "/Users/eev/SocialLife/SocialLife.csproj",
       "projectName": "SocialLife",
-      "projectPath": "/Users/eev/SocialMedia/SocialLife/SocialLife.csproj",
+      "projectPath": "/Users/eev/SocialLife/SocialLife.csproj",
       "packagesPath": "/Users/eev/.nuget/packages/",
-      "outputPath": "/Users/eev/SocialMedia/SocialLife/obj/",
+      "outputPath": "/Users/eev/SocialLife/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/eev/.nuget/NuGet/NuGet.Config"
