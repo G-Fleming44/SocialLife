@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[10.0.0, )",
               "autoReferenced": true
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[10.0.0, )"
             }
           },
           "imports": [

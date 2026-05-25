@@ -1,10 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "iiKCZsFfDK4=",
+  "dgSpecHash": "Sih5HRD0AYc=",
   "success": true,
   "projectFilePath": "/Users/eev/SocialLife/SocialLife.csproj",
   "expectedPackageFiles": [
-    "/Users/eev/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0/microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+    "/Users/eev/.nuget/packages/microsoft.aspnetcore.app.internal.assets/10.0.0/microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512",
+    "/Users/eev/.nuget/packages/microsoft.extensions.configuration.json/10.0.0/microsoft.extensions.configuration.json.10.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1510",
+      "level": "Warning",
+      "message": "PackageReference Microsoft.Extensions.Configuration.Json will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
+      "projectPath": "/Users/eev/SocialLife/SocialLife.csproj",
+      "warningLevel": 1,
+      "filePath": "/Users/eev/SocialLife/SocialLife.csproj",
+      "libraryId": "Microsoft.Extensions.Configuration.Json",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
